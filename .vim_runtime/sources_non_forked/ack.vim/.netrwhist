@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/root/personal/learning-make'
+let g:netrw_dirhist_1='/root/personal/Makefile/03_Basics'
+let g:netrw_dirhist_0='/root/personal/Makefile/02_Manual_Compilation'
+let g:netrw_dirhist_9='/root/personal'
+let g:netrw_dirhist_8='/root/new/quick/tetris/include'
+let g:netrw_dirhist_7='/root/new/quick/tetris'
+let g:netrw_dirhist_6='/root/new/quick/tetris/src'
+let g:netrw_dirhist_5='/root/new/quick/tetris'
+let g:netrw_dirhist_4='/root/new/quick'
+let g:netrw_dirhist_3='/root/new/server'
